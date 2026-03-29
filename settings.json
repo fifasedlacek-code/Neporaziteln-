@@ -1,8 +1,8 @@
 {
-  "name": "AFK Bot",
+  "name": "neporazitelný",
   "bot-account": {
     "username": "neporazitelný",
-    "password": "",
+    "password": "afk-bot123",
     "type": "offline"
   },
   "server": {
